@@ -81,6 +81,9 @@ xnor(Y7,a,b);
 endmodule
  
 Logic symbol & Truthtable
+
+
+
 ![image](https://github.com/DHARANIDHARAN03K/study-of-basic-gates/assets/144870858/6d6187e4-1d8b-4286-87a1-59dfd88b9fec)
 
 
@@ -88,9 +91,17 @@ RTL realization Output:
 
 
 RTL
+
+
+
 ![image](https://github.com/DHARANIDHARAN03K/study-of-basic-gates/assets/144870858/43387e87-ebb7-4c73-938f-02b238f02243)
+
+
 Output
+
+
 ![image](https://github.com/DHARANIDHARAN03K/study-of-basic-gates/assets/144870858/d2f2ece6-2e9d-41ca-a9b5-cfafd793e523)
+
 
 
 
